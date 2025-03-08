@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Data;
-
+//This is only a text based final project
 namespace EscapeMansion
 {
     class Program
